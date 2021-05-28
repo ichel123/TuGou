@@ -1,0 +1,595 @@
+# Translation of Themes - Leeway in Spanish (Colombia)
+# This file is distributed under the same license as the Themes - Leeway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-18 04:37:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_CO\n"
+"Project-Id-Version: Themes - Leeway\n"
+
+#. Description of the theme
+msgid "Leeway is a free, responsive theme designed for small magazine websites or blogs. The theme includes two navigation menus, social icons, a fullwidth featured post slideshow and a flexible Magazine Homepage template. All settings are easy to configure in the Customizer."
+msgstr "Leeway es un tema gratuito y adaptable, diseñado para blogs o webs de revistas pequeñas. El tema incluye dos menús de navegación, íconos sociales, un carrusel de entradas destacadas de ancho completo y una plantilla de página de inicio de revista flexible. Todos los ajustes son fáciles de configurar en el Personalizador."
+
+#. Theme Name of the theme
+msgid "Leeway"
+msgstr "Leeway"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:148
+msgctxt "Gutenberg Color Palette"
+msgid "Black"
+msgstr "Negro"
+
+#: functions.php:143
+msgctxt "Gutenberg Color Palette"
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:138
+msgctxt "Gutenberg Color Palette"
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:133
+msgctxt "Gutenberg Color Palette"
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:128
+msgctxt "Gutenberg Color Palette"
+msgid "Primary"
+msgstr "Principal"
+
+#: inc/customizer/customizer.php:76
+msgid "Display Tagline"
+msgstr "Mostrar la descripción corta"
+
+#: inc/theme-info.php:152
+msgid "Review Leeway"
+msgstr "Valorar Leeway"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "Obtén más características"
+
+#: inc/theme-info.php:134 inc/customizer/functions/custom-controls.php:66
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/theme-info.php:127 inc/customizer/functions/custom-controls.php:58
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/theme-info.php:110 inc/customizer/functions/custom-controls.php:42
+msgid "Pro Version Add-on"
+msgstr "Extensiones de la versión Pro"
+
+#: inc/theme-info.php:50 inc/theme-info.php:152
+#: inc/customizer/customizer.php:183
+msgid "https://wordpress.org/support/theme/leeway/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/leeway/reviews/?filter=5"
+
+#: inc/customizer/sections/customizer-slider.php:135
+msgid "Slider Speed (in ms)"
+msgstr "Velocidad del carrusel (en ms)"
+
+#: inc/customizer/customizer.php:59
+msgid "Display Site Title"
+msgstr "Mostrar el título del sitio"
+
+#: functions.php:185
+msgid "Appears on posts and pages except the full width template."
+msgstr "Aparece en las entradas y las páginas, excepto en la plantilla de ancho completo."
+
+#: inc/theme-info.php:151
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/customizer/sections/customizer-post.php:193
+msgid "Display post navigation on single posts"
+msgstr "Muestra la navegación de entradas en las entradas individuales"
+
+#: inc/customizer/sections/customizer-post.php:178
+msgid "Post Footer"
+msgstr "Pie de página de la entrada"
+
+#: inc/theme-info.php:116 inc/customizer/functions/custom-controls.php:49
+msgid "https://themezee.com/addons/leeway-pro/"
+msgstr "https://themezee.com/addons/leeway-pro/"
+
+#: inc/theme-info.php:49 inc/theme-info.php:70
+#: inc/customizer/customizer.php:177
+msgid "https://themezee.com/docs/leeway-documentation/"
+msgstr "https://themezee.com/docs/leeway-documentation/"
+
+#: inc/customizer/sections/customizer-upgrade.php:14
+msgid "More Features"
+msgstr "Más características"
+
+#: inc/theme-info.php:130 inc/customizer/functions/custom-controls.php:61
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Amplía la funcionalidad de tu web WordPress con nuestros plugins gratuitos y fáciles de usar."
+
+#: inc/theme-info.php:46 inc/customizer/customizer.php:162
+msgid "Theme Links"
+msgstr "Enlaces del tema"
+
+#: inc/customizer/customizer.php:110
+msgid "Hide header image on front page"
+msgstr "Ocultar imagen de cabecera en la página de inicio"
+
+#: inc/customizer/customizer.php:93
+msgid "Header Image Link"
+msgstr "Enlace de la imagen de cabecera"
+
+#: inc/widgets/widget-category-posts-grid.php:356
+#: inc/widgets/widget-category-posts-columns.php:355
+#: inc/widgets/widget-category-posts-boxed.php:392
+msgid "Display date and comments"
+msgstr "Muestra la fecha y los comentarios"
+
+#: inc/widgets/widget-category-posts-grid.php:355
+#: inc/widgets/widget-category-posts-columns.php:354
+#: inc/widgets/widget-category-posts-boxed.php:391
+msgid "Display date and author"
+msgstr "Muestra la fecha y el autor"
+
+#: inc/widgets/widget-category-posts-grid.php:353
+#: inc/widgets/widget-category-posts-columns.php:352
+#: inc/widgets/widget-category-posts-boxed.php:389
+msgid "Hide post meta"
+msgstr "Ocultar metadatos de la entrada"
+
+#: inc/widgets/widget-category-posts-grid.php:351
+#: inc/widgets/widget-category-posts-columns.php:350
+#: inc/widgets/widget-category-posts-boxed.php:387
+msgid "Post Meta:"
+msgstr "Metadatos de la entrada:"
+
+#: inc/customizer/customizer.php:34
+msgid "Background"
+msgstr "Fondo"
+
+#: template-magazine.php:39
+msgid "Please go to Appearance &#8594; Widgets and add at least one widget to the \"Magazine Homepage\" widget area. You can use the Category Posts widgets to set up the theme like the demo website."
+msgstr "Por favor, ve a «Apariencia → Widgets» y añade al menos un widget al área de widgets «Página principal de la revista». Puedes usar los widgets de «Entradas de categoría» para configurar el tema como la web de demostración."
+
+#: sidebar.php:16
+msgid "Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+msgstr "Por favor, ve a «Apariencia → Widgets» y añade algunos widgets a tu barra lateral."
+
+#: search.php:47
+msgid "No matches"
+msgstr "Sin coincidencias"
+
+#: inc/widgets/widget-category-posts-grid.php:14
+msgid "Category Posts: Grid (%s)"
+msgstr "Entradas de categoría: cuadrícula (%s)"
+
+#: inc/widgets/widget-category-posts-columns.php:14
+msgid "Category Posts: 2 Columns (%s)"
+msgstr "Entradas de categoría: 2 columnas (%s)"
+
+#: inc/widgets/widget-category-posts-boxed.php:14
+msgid "Category Posts: Boxed (%s)"
+msgstr "Entradas de categoría: en caja (%s)"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s usa el Personalizador para todos los ajustes del tema. Haz clic en «Personalizar tema» para abrir el Personalizador."
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "Ver la documentación de %s"
+
+#: inc/theme-info.php:47 inc/customizer/customizer.php:166
+msgid "Theme Page"
+msgstr "Página del tema"
+
+#: inc/theme-info.php:117 inc/customizer/functions/custom-controls.php:50
+msgid "Learn more about %s Pro"
+msgstr "Más información sobre %s Pro"
+
+#: inc/theme-info.php:113 inc/customizer/functions/custom-controls.php:45
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Compra la extensión %s Pro y consigue características adicionales y opciones de personalización avanzadas."
+
+#: inc/customizer/sections/customizer-slider.php:121
+msgid "Fade Effect"
+msgstr "Efecto de fundido"
+
+#: inc/customizer/sections/customizer-slider.php:120
+msgid "Slide Effect"
+msgstr "Efecto de las diapositivas"
+
+#: inc/customizer/sections/customizer-slider.php:60
+msgid "Show Slider on posts page"
+msgstr "Mostrar el carrusel en la página de entradas"
+
+#: inc/customizer/sections/customizer-slider.php:45
+msgid "Show Slider on Magazine Homepage"
+msgstr "Mostrar el carrusel en la página de inicio de la revista"
+
+#: inc/customizer/sections/customizer-slider.php:30
+msgid "Activate Post Slider"
+msgstr "Activar el carrusel de entradas"
+
+#: inc/customizer/sections/customizer-post.php:160
+msgid "Display post tags"
+msgstr "Mostrar las etiquetas de la entrada"
+
+#: inc/customizer/sections/customizer-post.php:145
+msgid "Display post categories"
+msgstr "Mostrar las categorías de la entrada"
+
+#: inc/customizer/sections/customizer-post.php:130
+msgid "Display post author"
+msgstr "Mostrar el autor de la entrada"
+
+#: inc/customizer/sections/customizer-post.php:115
+#: inc/widgets/widget-category-posts-grid.php:354
+#: inc/widgets/widget-category-posts-columns.php:353
+#: inc/widgets/widget-category-posts-boxed.php:390
+msgid "Display post date"
+msgstr "Mostrar la fecha de la entrada"
+
+#: inc/customizer/sections/customizer-post.php:100
+msgid "Post Meta"
+msgstr "Metadatos de la entrada"
+
+#: inc/customizer/sections/customizer-post.php:36
+msgid "Show post excerpts"
+msgstr "Mostrar los extractos de la entrada"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:11
+msgid "404: Page not found"
+msgstr "404: Página no encontrada"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Ancho completo"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:51
+msgid "Please try again, or use the navigation menus to find what you search for."
+msgstr "Por favor, inténtalo de nuevo o usa los menús de navegación para encontrar lo que estás buscando."
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/widgets/widget-category-posts-grid.php:340
+msgid "Three Columns Grid"
+msgstr "Cuadrícula de tres columnas"
+
+#: inc/widgets/widget-category-posts-grid.php:339
+msgid "Two Columns Grid"
+msgstr "Cuadrícula de dos columnas"
+
+#: inc/widgets/widget-category-posts-grid.php:337
+msgid "Grid Layout:"
+msgstr "Diseño de cuadrícula:"
+
+#: inc/widgets/widget-category-posts-grid.php:11
+msgid "Displays your posts from a selected category in a grid layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Muestra tus entradas, de una categoría seleccionada, en un diseño de cuadrícula. Por favor, usa este widget SOLO en el área de widgets de la página de inicio de revista."
+
+#: inc/widgets/widget-category-posts-columns.php:345
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Resaltar la primera entrada (imagen grande + extracto)"
+
+#: inc/widgets/widget-category-posts-grid.php:345
+#: inc/widgets/widget-category-posts-columns.php:337
+msgid "Number of posts:"
+msgstr "Nº de resultados publicaciones:"
+
+#: inc/widgets/widget-category-posts-columns.php:322
+msgid "Right Category:"
+msgstr "Categoría de la derecha:"
+
+#: inc/widgets/widget-category-posts-columns.php:316
+msgid "Right Category Title:"
+msgstr "Título de la categoría derecha:"
+
+#: inc/widgets/widget-category-posts-columns.php:301
+msgid "Left Category:"
+msgstr "Categoría de la izquierda:"
+
+#: inc/widgets/widget-category-posts-columns.php:295
+msgid "Left Category Title:"
+msgstr "Título de la categoría izquierda:"
+
+#: inc/widgets/widget-category-posts-columns.php:11
+msgid "Displays your posts from two selected categories. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Muestra tus entradas de dos categorías seleccionadas. Por favor, usa este widget SOLO en el área de widgets de la página de inicio de revista."
+
+#: inc/widgets/widget-category-posts-boxed.php:382
+msgid "Vertical Arrangement"
+msgstr "Disposición vertical"
+
+#: inc/widgets/widget-category-posts-boxed.php:381
+msgid "Horizontal Arrangement"
+msgstr "Disposición horizontal"
+
+#: inc/widgets/widget-category-posts-boxed.php:379
+msgid "Post Layout:"
+msgstr "Diseño de la entrada:"
+
+#: inc/widgets/widget-category-posts-grid.php:325
+#: inc/widgets/widget-category-posts-columns.php:304
+#: inc/widgets/widget-category-posts-columns.php:325
+#: inc/widgets/widget-category-posts-boxed.php:367
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/widget-category-posts-grid.php:322
+#: inc/widgets/widget-category-posts-boxed.php:364
+msgid "Category:"
+msgstr "Categoría:"
+
+#: inc/widgets/widget-category-posts-grid.php:316
+#: inc/widgets/widget-category-posts-boxed.php:358
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/widget-category-posts-grid.php:281
+#: inc/widgets/widget-category-posts-columns.php:258
+#: inc/widgets/widget-category-posts-boxed.php:324
+msgid "View all posts from category %s"
+msgstr "Ver todas las entradas de la categoría %s"
+
+#: inc/widgets/widget-category-posts-boxed.php:11
+msgid "Displays your posts from a selected category in a boxed layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Muestra tus entradas, de una categoría seleccionada, en un diseño de cajas. Por favor, usa este widget SOLO en el área de widgets de la página de inicio de revista."
+
+#: inc/theme-info.php:152
+msgid "rate it"
+msgstr "valóralo"
+
+#: inc/theme-info.php:149
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s está desarrollado por %2$s. Si te gusta este tema, %3$s :)"
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "Personalizar el tema"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "¿Necesitas ayuda para configurar este tema? Cuentas con una extensa documentación en nuestra web."
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "Primeros pasos con %s"
+
+#: inc/theme-info.php:50 inc/customizer/customizer.php:184
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: inc/theme-info.php:49 inc/theme-info.php:64
+#: inc/customizer/customizer.php:178
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/theme-info.php:48 inc/customizer/customizer.php:172
+msgid "Theme Demo"
+msgstr "Demostración del tema"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/template-tags.php:369
+msgid "Please go to Appearance &#8594; Menus and create a new custom menu with custom links to all your social networks. Then click on \"Manage Locations\" tab and assign your created menu to the \"Social Icons\" location."
+msgstr "Por favor, ve a «Apariencia → Menús» y crea un nuevo menú personalizado con enlaces personalizados a todas tus redes sociales. A continuación, haz clic en la pestaña «Gestionar ubicaciones» y asigna el menú creado a la ubicación «Íconos sociales»."
+
+#: inc/template-tags.php:335
+msgid "Powered by %1$s and %2$s."
+msgstr "Funciona con %1$s y %2$s."
+
+#: inc/template-tags.php:245
+msgid "Tags: %1$s"
+msgstr "Etiquetas: %1$s"
+
+#: inc/template-tags.php:232
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: inc/template-tags.php:179
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:165
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/featured-content.php:269
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: inc/featured-content.php:262
+msgid "Display featured posts in latest blog post listing."
+msgstr "Mostrar entradas destacadas en la lista de últimas entradas del blog."
+
+#: inc/featured-content.php:256
+msgid "Tag name"
+msgstr "Nombre de la etiqueta"
+
+#: inc/customizer/sections/customizer-slider.php:113
+msgid "Slider Animation"
+msgstr "Animación del carrusel"
+
+#: inc/customizer/sections/customizer-slider.php:95
+msgid "The slideshow displays all your featured posts. You can easily feature posts by a tag of your choice."
+msgstr "El carrusel muestra todas tus entradas destacadas. Puedes destacar fácilmente las entradas de la etiqueta que quieras."
+
+#: inc/customizer/sections/customizer-slider.php:78
+msgid "Select Featured Posts"
+msgstr "Selecciona las entradas destacadas"
+
+#. Template Name of the theme
+#: inc/customizer/sections/customizer-slider.php:14
+msgid "Post Slider"
+msgstr "Carrusel de entradas"
+
+#: inc/customizer/sections/customizer-post.php:82
+msgid "Display featured images on single posts"
+msgstr "Mostrar imágenes destacadas en entradas individuales"
+
+#: inc/customizer/sections/customizer-post.php:66
+msgid "Display featured images on archive pages"
+msgstr "Mostrar imágenes destacadas en páginas de archivo"
+
+#: inc/customizer/sections/customizer-post.php:51
+msgid "Post Images"
+msgstr "Imágenes de las entradas"
+
+#: inc/customizer/sections/customizer-post.php:35
+msgid "Show full posts"
+msgstr "Mostrar las entradas completas"
+
+#: inc/customizer/sections/customizer-post.php:29
+msgid "Post length on archives"
+msgstr "Longitud de las entradas en los archivos"
+
+#: inc/customizer/sections/customizer-post.php:14
+msgid "Post Settings"
+msgstr "Ajustes de las entradas"
+
+#: inc/customizer/sections/customizer-header.php:47
+msgid "Display Social Icons on top navigation"
+msgstr "Mostrar los íconos sociales en la navegación superior"
+
+#: inc/customizer/sections/customizer-header.php:30
+msgid "Header Content"
+msgstr "Contenido de la cabecera"
+
+#: inc/customizer/sections/customizer-header.php:14
+msgid "Header Settings"
+msgstr "Ajustes de la cabecera"
+
+#: inc/customizer/sections/customizer-general.php:36
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/sections/customizer-general.php:35
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/sections/customizer-general.php:29
+msgid "Theme Layout"
+msgstr "Diseño del tema"
+
+#: inc/customizer/sections/customizer-general.php:14
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/theme-info.php:77 inc/customizer/customizer.php:28
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/template-tags.php:406
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/template-tags.php:402
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/template-tags.php:387 inc/template-tags.php:407
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:386
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:196
+msgid "Appears on Magazine Homepage template only. You can use the Category Posts widgets here."
+msgstr "Solo aparece en la plantilla de la página de inicio de revista. Aquí puedes usar los widgets de «Entradas de categoría»."
+
+#. Template Name of the theme
+#: functions.php:194
+msgid "Magazine Homepage"
+msgstr "Página de inicio de revista"
+
+#: functions.php:183 sidebar.php:14
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:120
+msgid "Social Icons"
+msgstr "Íconos sociales"
+
+#: functions.php:117
+msgid "Footer Navigation"
+msgstr "Navegación del pie de página"
+
+#: functions.php:116
+msgid "Top Navigation"
+msgstr "Navegación superior"
+
+#: functions.php:115
+msgid "Main Navigation"
+msgstr "Navegación principal"
+
+#: featured-content-slider.php:14
+msgid "There is no featured content to be displayed in the slider. To set up the slider, go to Appearance &#8594; Customize &#8594; Theme Options, and add a featured tag in the Post Slider section. The slideshow displays all your posts which are tagged with that keyword."
+msgstr "No hay contenido destacado que mostrar en el carrusel. Para configurar el carrusel, ve a «Apariencia > Personalizar > Opciones del tema» y añade una etiqueta destacada en la sección del carrusel de entradas. El carrusel mostrará todas las entradas que hayas etiquetado con esa palabra clave."
+
+#: content.php:11 content-search.php:8 content-excerpt.php:12
+#: inc/widgets/widget-category-posts-columns.php:172
+#: inc/widgets/widget-category-posts-boxed.php:156
+#: inc/widgets/widget-category-posts-boxed.php:237
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/template-tags.php:179 comments.php:20
+msgid "% comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:179 comments.php:20
+msgid "One comment"
+msgstr "Un comentario"
+
+#: comments.php:10
+msgid "Enter password to view comments."
+msgstr "Introduce la contraseña para ver los comentarios."
+
+#. Author URI of the theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com"
+
+#. Author of the theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Theme URI of the theme
+#: inc/theme-info.php:47 inc/customizer/customizer.php:165
+msgid "https://themezee.com/themes/leeway/"
+msgstr "https://themezee.com/themes/leeway/"
